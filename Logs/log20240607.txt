@@ -1,0 +1,32 @@
+2024-06-07 15:38:10.423 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:38:32.735 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:39:07.830 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:39:09.673 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:39:12.044 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:39:12.780 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:46:05.864 +03:00 [ERR] Error on Login, Message: Session has not been configured for this application or request., InnerException: , StackTrace:    at Microsoft.AspNetCore.Http.DefaultHttpContext.get_Session()
+   at DogBarberShopBL.Services.UsersBL.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\UsersBL.cs:line 43
+   at DogBarberShopAPI.Controllers.UsersController.Login(UserLoginDTO userLoginDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\DogBarberShopAPI\Controllers\UsersController.cs:line 27
+2024-06-07 15:48:16.285 +03:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Session.ISessionStore' while attempting to activate 'Microsoft.AspNetCore.Session.SessionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2024-06-07 17:08:21.570 +03:00 [INF] Received request to add queue.
+2024-06-07 17:08:21.622 +03:00 [INF] Token from request: 
+2024-06-07 17:08:21.675 +03:00 [ERR] Error adding queue: Token is missing or empty

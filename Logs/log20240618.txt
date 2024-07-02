@@ -1,0 +1,90 @@
+2024-06-18 12:43:47.222 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:47:01.364 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:47:25.102 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:48:00.187 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:49:56.573 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:50:16.063 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:50:53.552 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:51:22.935 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:51:39.161 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:54:58.008 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:55:34.829 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:55:50.415 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:57:02.873 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:57:37.280 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 12:58:10.993 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 13:01:05.230 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 13:02:28.793 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
+2024-06-18 14:24:40.153 +03:00 [ERR] Error adding queue
+System.Exception: User ID not found in session
+   at DogBarberShopBL.Services.QueueBL.GetUserFromToken() in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 42
+   at DogBarberShopBL.Services.QueueBL.addQueue(QueueAddQueueDTO queueDTO) in C:\Users\shira\Downloads\#c dotnetCor\dog Barber Shop\UserBL\Services\QueueBL.cs:line 48
+   at DogBarberShopAPI.Controllers.QueueController.addQueue(QueueAddQueueDTO queueDTO)
